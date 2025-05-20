@@ -50,7 +50,6 @@
 ----
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrew-Musa&theme=react-dark)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Musa"/>
