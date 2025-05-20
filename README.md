@@ -1,5 +1,7 @@
 ![My Photo](./header.png)
 
+#### My Skills
+
 ### 🧠 Languages & Markup
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
