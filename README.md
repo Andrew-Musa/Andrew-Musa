@@ -1,3 +1,5 @@
+![My Photo](./header.png)
+
 ## Hi there 👋
 
 <!--
