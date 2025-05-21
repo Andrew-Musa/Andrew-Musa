@@ -1,6 +1,6 @@
 ![My Photo](./header.png)
 
-# The Tools I Rely on
+# The Tools I Rely on:
 
 ### 🧠 Languages & Markup
 
